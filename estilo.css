@@ -1,0 +1,29 @@
+
+body {
+background-color: hsl(212, 45%, 89%);
+margin: 150px 400px;
+/* padding: 100px 500px; */
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    background-color: rgb(245, 247, 248);
+    padding: 20px 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.imagenQr{
+    border-radius: 10px;
+}
+
+.titulo{
+    font-weight: bold;
+    text-align: center;
+}
+
+.parrafo{
+
+}
